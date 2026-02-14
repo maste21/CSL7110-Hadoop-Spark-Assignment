@@ -1,11 +1,7 @@
 ### CSL7110-Hadoop-Spark-Assignment
 
-├── WordCount.java
-├── WordCountWithTime.java # Hadoop Q9 - With execution time
-├── q10_metadata_analysis.py # Spark Q10 - Book metadata extraction
-├── q11_tfidf_similarity.py # Spark Q11 - TF-IDF and similarity
-├── q12_author_network.py # Spark Q12 - Author influence network
-└── lyrics.txt # Sample input file
+
+<img width="355" height="110" alt="image" src="https://github.com/user-attachments/assets/d17f3217-154b-4f1c-92e2-647095e1af3e" />
 
 
 ### Prerequisites
