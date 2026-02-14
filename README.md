@@ -9,6 +9,10 @@
 - Java 17+ installed
 - HDFS running
 
+- Spark 4.0.1 installed
+- PySpark installed (pip install pyspark)
+- Gutenberg dataset in gutenberg_dataset/ folder
+
 ### Compile and Run code
 ```bash
 # Compile
@@ -22,13 +26,6 @@ hadoop jar {jar_name}.jar {java_file_name} /user/arun/{q_number}/{file}/user/aru
 
 #Word count
 hdfs dfs -cat /user/arun/q1/output/part-r-00000
-
-
-
-### Prerequisites
-Spark 4.0.1 installed
-PySpark installed (pip install pyspark)
-Gutenberg dataset in gutenberg_dataset/ folder
 
 
 python3 q10_metadata_analysis.py
