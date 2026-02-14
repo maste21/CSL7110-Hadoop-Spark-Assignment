@@ -1,7 +1,7 @@
 ### CSL7110-Hadoop-Spark-Assignment
 
+<img width="1017" height="314" alt="image" src="https://github.com/user-attachments/assets/a8801c02-65aa-4f7e-b274-9f6ac6c9685a" />
 
-<img width="355" height="110" alt="image" src="https://github.com/user-attachments/assets/d17f3217-154b-4f1c-92e2-647095e1af3e" />
 
 
 ### Prerequisites
